@@ -1,0 +1,6 @@
+li {
+  display: inline;
+}
+.active {
+  background-color: #4CAF50;
+}
