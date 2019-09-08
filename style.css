@@ -25,9 +25,13 @@ li a:hover {
 li active {
   background-color: #4CAF50;
 }
-body.bg {
+body, html {
+  height: 100%;
+}
+
+.bg {
   /* The image used */
-  background-image: url("ah.jpg");
+  background-image: url("img_girl.jpg");
 
   /* Full height */
   height: 100%;
