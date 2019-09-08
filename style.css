@@ -25,3 +25,15 @@ li a:hover {
 li active {
   background-color: #4CAF50;
 }
+.bg {
+  /* The image used */
+  background-image: url("ah.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
