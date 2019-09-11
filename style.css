@@ -19,6 +19,10 @@ body, html {
   margin-top:20px;
 }
 
+.align-text {
+  text-align: left; 
+}
+
 ul {
   list-style-type: none;
   margin: 0;
